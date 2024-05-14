@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariem Fathallah</h1>
 <h3 align="center">A passionate developer from Tunisia.</h3>
 
-- 💬 Ask me about **Reactjs,Nodejs,Expressjs,MongoDB**
+- 💬 Ask me about **WordPress,SEO,Reactjs,Nodejs,Expressjs,MongoDB**
 
 - 📫 How to reach me **mariemfathallahdev@gmail.com**
 
